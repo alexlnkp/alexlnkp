@@ -1,8 +1,27 @@
+
+# Hey, I'm Alex
+
 - I’m currently working on a bunch of random stuff
-- I’m looking to collaborate on ML projects
 - Git is confusing to me please help
-- How to reach me: Your best bet is via my discord: `@.pussypunisher`
-.                                    or my EMail: 413x1nkp@gmail.com
-- ⚡ Fun fact: I'm delusional and as bad as everyone has always said
+- How to reach me: Your best bet is via my EMail: 413x1nkp@gmail.com
+
+### My lingo
+![PLanguages](https://skillicons.dev/icons?i=cpp,c,bash,latex,python)
+
+### Stuff I use
+
+#### Distro
+![Distro](https://skillicons.dev/icons?i=arch)
+
+#### Editors
+![Editors](https://skillicons.dev/icons?i=vscodium,vim)
+
+#### Git
+![GitStuff](https://skillicons.dev/icons?i=github,gitlab)
+
+#### Frameworks
+![FWorks](https://skillicons.dev/icons?i=pytorch,unreal,tensorflow,qt)
+
+***
 
 ![:413x1nkp](https://count.chiya.dev/get/@:413x1nkp)
