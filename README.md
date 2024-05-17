@@ -1,8 +1,8 @@
 
 # Hey, I'm Alex
 
-- I’m currently working on a bunch of random stuff
-- Git is confusing to me please help
+- I’m currently working on Remi at [alexlnkp/Remi](https://github.com/alexlnkp/Remi)
+- Go fuck yourself, Devin
 - How to reach me: Your best bet is via my EMail: 413x1nkp@gmail.com
 
 ### My lingo
