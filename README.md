@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="left">Hey, I'm Alex</h1>
 
 - I’m currently working on Remi-CPP at [alexlnkp/Remi-CPP](https://github.com/alexlnkp/Remi-CPP)
