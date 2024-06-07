@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Alex</h1>
 
-- I’m currently working on Remi-CPP at [alexlnkp/Remi-CPP](https://github.com/alexlnkp/Remi-CPP)
+- I’m currently working on CShaderToy at [alexlnkp/CShaderToy](https://github.com/alexlnkp/CShaderToy)
 - Your best bet to reach me is via my EMail: 413x1nkp@gmail.com
 
 ---
