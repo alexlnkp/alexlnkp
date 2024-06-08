@@ -20,7 +20,7 @@
 
 [//]: <> (Pinned repositories)
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=cshadertoy&theme=github_dark" alt="cshadertoy" />
+  <a href = "https://github.com/alexlnkp/cshadertoy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=cshadertoy&theme=github_dark" alt="cshadertoy" /></a>
 </div>
 
 ---
