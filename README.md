@@ -20,6 +20,7 @@
 
 [//]: <> (Pinned repositories)
 <div>
+  <a href = "https://github.com/alexlnkp/Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=Mapper&theme=github_dark" alt="Mapper" /></a>
   <a href = "https://github.com/non-ai-licenses/non-ai-licenses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=non-ai-licenses&repo=non-ai-licenses&theme=github_dark" alt="non-ai-licenses" /></a>
   <a href = "https://github.com/alexlnkp/cshadertoy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=cshadertoy&theme=github_dark" alt="cshadertoy" /></a>
   <a href = "https://github.com/alexlnkp/chasm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=chasm&theme=github_dark" alt="Chasm" /></a>
