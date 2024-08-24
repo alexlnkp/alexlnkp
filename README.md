@@ -25,14 +25,6 @@
 
 ---
 
-[//]: <> (Git repo hosts)
-<div align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo"  />
-</div>
-
----
-
 [//]: <> (Funny counter :)
 <div align="center">
   <img src = https://count.chiya.dev/get/@:413x1nkp alt="funny counter"  />
