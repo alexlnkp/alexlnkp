@@ -2,15 +2,15 @@
 
 [//]: <> (Langs)
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlnkp&langs_count=4&layout=compact&hide_title=true&theme=aura&bg_color=0D1117&locale=en&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlnkp&langs_count=4&layout=compact&hide_title=true&theme=aura&bg_color=00000000&locale=en&hide_border=true"/>
 </div>
 
 ---
 
 [//]: <> (Git stats)
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexlnkp&border_color=0D1117&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&bg_color=0D1117&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=alexlnkp&hide_title=true&locale=en&mode=daily&theme=aura&background=0D1117&border_radius=5&hide_border=true" height="150" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexlnkp&border_color=00000000&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&bg_color=00000000&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=alexlnkp&hide_title=true&locale=en&mode=daily&theme=aura&background=00000000&border_radius=5&hide_border=true" height="150" alt="streak graph"/>
 </div>
 
 ---
