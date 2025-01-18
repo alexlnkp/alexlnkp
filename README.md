@@ -17,10 +17,10 @@
 
 [//]: <> (Pinned repositories)
 <div>
-  <a href = "https://github.com/alexlnkp/Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=Mapper&theme=aura&bg_color=0D1117&hide_border=true" alt="Mapper" /></a>
-  <a href = "https://github.com/non-ai-licenses/non-ai-licenses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=non-ai-licenses&repo=non-ai-licenses&theme=aura&bg_color=0D1117&hide_border=true" alt="non-ai-licenses"/></a>
-  <a href = "https://github.com/alexlnkp/cshadertoy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=cshadertoy&theme=aura&bg_color=0D1117&hide_border=true" alt="cshadertoy"/></a>
-  <a href = "https://github.com/alexlnkp/sharedmem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=sharedmem&theme=aura&bg_color=0D1117&hide_border=true" alt="xtypes"/></a>
+  <a href = "https://github.com/alexlnkp/Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=Mapper&theme=aura&bg_color=00000000&hide_border=true" alt="Mapper" /></a>
+  <a href = "https://github.com/non-ai-licenses/non-ai-licenses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=non-ai-licenses&repo=non-ai-licenses&theme=aura&bg_color=00000000&hide_border=true" alt="non-ai-licenses"/></a>
+  <a href = "https://github.com/alexlnkp/cshadertoy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=cshadertoy&theme=aura&bg_color=00000000&hide_border=true" alt="cshadertoy"/></a>
+  <a href = "https://github.com/alexlnkp/sharedmem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=sharedmem&theme=aura&bg_color=00000000&hide_border=true" alt="xtypes"/></a>
 </div>
 
 ---
