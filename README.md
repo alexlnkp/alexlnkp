@@ -1,31 +1,19 @@
 <h1 align="left">Hey, I'm Alex</h1>
 
-[//]: <> (Langs)
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlnkp&langs_count=4&layout=compact&hide_title=true&theme=aura&bg_color=00000000&locale=en&hide_border=true"/>
-</div>
+<h1 align="center"><a href = "https://codeberg.org/alexlnkp">I've moved to codeberg</a></h1>
 
----
+If you want to receive latest updates to my repositories, change the git link from github to codeberg, like so:
 
-[//]: <> (Git stats)
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexlnkp&border_color=00000000&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&bg_color=00000000&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=alexlnkp&hide_title=true&locale=en&mode=daily&theme=aura&background=00000000&border_radius=5&hide_border=true" height="150" alt="streak graph"/>
-</div>
+https://github.com/alexlnkp/sharedmem to https://codeberg.org/alexlnkp/sharedmem
+
+i.e. just use this regex pattern: `https://github\.com/([^/]+/[^/]+)` and construct replacement using: `https://codeberg.org/$1`
 
 ---
 
 [//]: <> (Pinned repositories)
 <div>
-  <a href = "https://github.com/alexlnkp/Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=Mapper&theme=aura&bg_color=00000000&hide_border=true" alt="Mapper" /></a>
+  <a href = "https://codeberg.org/alexlnkp/Mapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=Mapper&theme=aura&bg_color=00000000&hide_border=true" alt="Mapper" /></a>
   <a href = "https://github.com/non-ai-licenses/non-ai-licenses"><img src="https://github-readme-stats.vercel.app/api/pin/?username=non-ai-licenses&repo=non-ai-licenses&theme=aura&bg_color=00000000&hide_border=true" alt="non-ai-licenses"/></a>
-  <a href = "https://github.com/alexlnkp/cshadertoy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=cshadertoy&theme=aura&bg_color=00000000&hide_border=true" alt="cshadertoy"/></a>
-  <a href = "https://github.com/alexlnkp/sharedmem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=sharedmem&theme=aura&bg_color=00000000&hide_border=true" alt="xtypes"/></a>
-</div>
-
----
-
-[//]: <> (Funny counter :)
-<div align="center">
-  <img src = https://count.chiya.dev/get/@:413x1nkp alt="funny counter"/>
+  <a href = "https://codeberg.org/alexlnkp/CShaderToy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=cshadertoy&theme=aura&bg_color=00000000&hide_border=true" alt="cshadertoy"/></a>
+  <a href = "https://codeberg.org/alexlnkp/sharedmem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexlnkp&repo=sharedmem&theme=aura&bg_color=00000000&hide_border=true" alt="xtypes"/></a>
 </div>
